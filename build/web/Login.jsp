@@ -17,17 +17,24 @@
     <body onload="document.registration.userid.focus();">
         <div class="login">
             <h2>Login</h2>
-            <form name='registration' onSubmit="return formValidation();">
-
-
-
-
-                Username: <input type="text" placeholder="please enter username" name="username" size="50" /><br><br>
-
-                Password :   <input type="password" placeholder="please enter password" name="passid" size="12" /><br><br>
-                <input type="submit" name="submit" value="Submit" />
-
-            </form>
+            <form action="LoginServlet" method="post">
+       
+            <legend>  </legend>
+            <table>
+                <tr>
+                    <td>User ID</td>
+                    <td><input type="text" name="username" required="required" /></td>
+                </tr>
+                <tr>
+                    <td>Password</td>
+                    <td><input type="password" name="userpass" required="required" /></td>
+                </tr>
+                <tr>
+                    <td><input type="submit" value="Login" /></td>
+                </tr>
+            </table>
+       
+    </form>
         </div>
     </body>
 
