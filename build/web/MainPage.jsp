@@ -39,7 +39,7 @@
         }
         body
         {
-           background-color: ivory;
+            background-image: url("https://dncache-mauganscorp.netdna-ssl.com/thumbseg/2105/2105143-bigthumbnail.jpg");
            background-repeat:no-repeat;
            background-size: cover;
         }
@@ -158,17 +158,19 @@ ul.topnav li.icon {display: none;}
                 <form>
                     <td rowspan="20"><th>
             
-                    <tr><td rowspan="20"> <img src="resources/images/lodge.jpg" align="middle" height="150" width="350"/>
-                    <tr><td rowspan="20"> <img src="resources/images/room.jpg" align="left" height="150" width="350"/>
-                    <tr><td rowspan="20"> <img src="resources/images/room1.jpg" align="right" height="150" width="350"/>
-                    <tr><td rowspan="20"><img src="resources/images/dining.jpg" align="right" height="150" width="350"/>   
+                    <tr><td rowspan="20"> <img src="resources/images/lodge.jpg" align="middle" height="150" width="330"/>
+                    <tr><td rowspan="20"> <img src="resources/images/room.jpg" align="left" height="150" width="330"/>
+                    <tr><td rowspan="20"> <img src="resources/images/room1.jpg" align="right" height="150" width="330"/>
+                    <tr><td rowspan="20"><img src="resources/images/dining.jpg" align="right" height="150" width="330"/>   
                 </form>
         </table>
             
             <table border="5" caption align="left">
                 <td width="500px"><p class="desc"> Serenity Resort is situated at a prime location in Tungarli, Lonavala. It is 2200 feet above the sea level having serene and picturesque location closeto The Lagoona. Also buit during the British era with serene surroundings the 'Tungarli Lake & Dam' is the place where youth climb the mountain top to the Dam and also do rappelling. It is an excellent place for backpack camping. There are some celebrity bunglows in the nearby area. Families, honeymooners, office gatherings, conferences, training programmes, college groups- for all ages and profiles, Lonavala is a universal favourite who are looking for extended moment for peace and quiet and rejuvenation or just to spend hours of trekking and seeking to explore the wonders of nature. Lonavala is a romantic gateway of the crowded metropolitan life in Mumbai and Pune.
                     </p></td>
-            
+             <footer>
+            <p>Copyright &copy; 2016-2017. <strong>Sunshine hotel.</strong> All rights reserved.</p>
+        </footer>
             </table>
        
     </body>
